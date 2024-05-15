@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21aaf26c-5cb6-49b1-b22b-2b101ea184b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.envs/adminer.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.envs/mysql.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.envs/redis.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.adminer.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.mysql.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.redis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectId" id="2PB5jNyQE8vNlWLAwnhMs2xLNf7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/dark/Documents/project/practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.envs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21aaf26c-5cb6-49b1-b22b-2b101ea184b4" name="Changes" comment="" />
+      <created>1682917768312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682917768312</updated>
+      <workItem from="1682917769357" duration="11452000" />
+      <workItem from="1682935580811" duration="2206000" />
+      <workItem from="1682999899086" duration="2748000" />
+      <workItem from="1683169925423" duration="486000" />
+      <workItem from="1683447514310" duration="637000" />
+      <workItem from="1683560617065" duration="1946000" />
+      <workItem from="1683568491437" duration="88000" />
+      <workItem from="1683647753648" duration="628000" />
+      <workItem from="1692554071892" duration="2738000" />
+      <workItem from="1693595297881" duration="621000" />
+      <workItem from="1696033252592" duration="4725000" />
+      <workItem from="1696119975895" duration="794000" />
+      <workItem from="1696205933675" duration="1137000" />
+      <workItem from="1696293159123" duration="1128000" />
+      <workItem from="1696343967786" duration="1243000" />
+      <workItem from="1697251796195" duration="599000" />
+      <workItem from="1698419568529" duration="798000" />
+      <workItem from="1698453695323" duration="614000" />
+      <workItem from="1698578727429" duration="1290000" />
+      <workItem from="1705685738857" duration="56000" />
+      <workItem from="1709271488314" duration="403000" />
+      <workItem from="1709271933842" duration="7780000" />
+      <workItem from="1710345743094" duration="1288000" />
+      <workItem from="1710573196503" duration="1352000" />
+      <workItem from="1714142586091" duration="685000" />
+      <workItem from="1714625112190" duration="672000" />
+      <workItem from="1715752693188" duration="2171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
