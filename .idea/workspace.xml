@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21aaf26c-5cb6-49b1-b22b-2b101ea184b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.envs/adminer.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.envs/mysql.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.envs/redis.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.override.adminer.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.override.mysql.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.override.redis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.adminer.example.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.example.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.mysql.example.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.redis.example.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/dark/Documents/project/practice",
+    "last_opened_file_path": "/home/dark/Documents/project/common-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,7 +87,7 @@
       <workItem from="1710573196503" duration="1352000" />
       <workItem from="1714142586091" duration="685000" />
       <workItem from="1714625112190" duration="672000" />
-      <workItem from="1715752693188" duration="2171000" />
+      <workItem from="1715752693188" duration="4644000" />
     </task>
     <servers />
   </component>
